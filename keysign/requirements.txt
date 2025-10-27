@@ -13,8 +13,8 @@ attrs==22.1.0 \
     #   magic-wormhole
     #   service-identity
     #   twisted
-autobahn[twisted]==22.7.1 \
-    --hash=sha256:8b462ea2e6aad6b4dc0ed45fb800b6cbfeb0325e7fe6983907f122f2be4a1fe9
+autobahn[twisted]==22.12.1 \
+    --hash=sha256:43b4e8b1aeaeb20a0cc0a81572e613dc958057c0ab248a7d6b41b2763270f925
     # via magic-wormhole
 automat==20.2.0 \
     --hash=sha256:7979803c74610e11ef0c0d68a2942b152df52da55336e0c9d58daf1831cbdf33 \
